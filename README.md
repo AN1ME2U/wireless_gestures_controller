@@ -7,3 +7,7 @@
 5. Create gestue patterns, bind them with windowqs commands
 6. Design controller case and PCB
 7. Test and bugfix, minor improvements
+
+Library used:
+1. https://github.com/ElectronicCats/mpu6050
+2. https://github.com/jrowberg/i2cdevlib
