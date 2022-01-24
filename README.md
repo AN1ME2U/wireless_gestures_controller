@@ -5,5 +5,5 @@
 3. Improve sensors accuracy and create data format
 4. First try with Windows API
 5. Create gestue patterns, bind them with windowqs commands
-6. Design controller case and board
+6. Design controller case and PCB
 7. Test and bugfix, minor improvements
